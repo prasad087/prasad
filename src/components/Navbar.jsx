@@ -26,7 +26,7 @@ const Navbar = () => {
                     <FaGithub />
                 </a>
                 <a
-                    href="https://drive.google.com/file/d/1wfxcN57lnbDYpCYqnp5v_N0gs8v80Uh6/view?usp=sharing" 
+                    href="https://drive.google.com/file/d/176irNoYlOaNJcx9k2dJMJlIzzy1swKZw/view?usp=sharing" 
                     download="Prasad_Gomkale_Resume.pdf"
                     className="bg-purple-600 text-white text-sm py-1 px-3 rounded hover:bg-blue-600 flex items-center"
                 >
